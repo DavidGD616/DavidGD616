@@ -37,4 +37,4 @@ Here are some ideas to get you started:
                  <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
                       <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DavidGD616z&show_icons=true&locale=en&layout=compact" alt="DavidGD616" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DavidGD616&show_icons=true&locale=en&layout=compact" alt="DavidGD616" /></p>
