@@ -37,6 +37,6 @@ I’m a passionate **Software Developer** with a love for creating scalable web 
 ---
 
 ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)]([https://www.linkedin.com/in/your-linkedin/](https://www.linkedin.com/in/david-guerrerodiaz/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/david-guerrerodiaz/)
 [![Email](https://img.shields.io/badge/David.GuerreroD@protonmail.com-ff69b4)](mailto:David.GuerreroD@protonmail.com)
 
